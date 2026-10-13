@@ -1,0 +1,8 @@
+{
+  "name": "Simple Translator",
+  "description": "Translate messages with a simple long-press. Free, no API keys needed.",
+  "authors": ["Youssefua2"],
+  "main": "index.js",
+  "version": "1.0.0",
+  "hash": "0"
+}
